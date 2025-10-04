@@ -1,1 +1,15 @@
-# Assignment-5-DA-
+##### Assignment-5-DA-  
+##### Name: Abhimanyu Vashishtha
+##### Roll number: DA25C001
+
+Summary:  
+This project explores dimensionality reduction techniques for high-dimensional gene expression data. We applied **Isomap** to preserve global manifold structure   
+and **t-SNE** to reveal local clustering patterns. The results show that the data lies on a **complex, curved manifold**, making classification challenging due to   
+overlapping categories. Isomap highlights the global geometry, while t-SNE emphasizes local group separations, providing complementary insights into the dataset.  
+
+
+
+
+
+
+
